@@ -1,4 +1,4 @@
-### I am a software Engineer and a graphic designer. 👋
+### I'm a computer science student at JKUAT👋
 
 <!--
 **Gatmach/Gatmach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
